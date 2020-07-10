@@ -1,0 +1,33 @@
+html, body
+{
+    height: 100%;
+
+    background: rgb(81,70,255);
+    background: linear-gradient(90deg, rgba(81,70,255,1) 0%, rgba(177,103,255,1) 100%);
+}
+
+.banner img
+{
+    width: 60%;
+
+    color: white;
+}
+
+.banner h1
+{
+    font-size: 40px;
+
+    font-weight: bold;
+
+    color: white !important;
+}
+
+.poppins
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.fas
+{
+    color: #C9C6E7;
+}
